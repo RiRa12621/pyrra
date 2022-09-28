@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/alecthomas/kong v0.6.1
-	github.com/bufbuild/connect-go v0.3.0
+	github.com/bufbuild/connect-go v0.5.0
 	github.com/dgraph-io/ristretto v0.1.0
 	github.com/fsnotify/fsnotify v1.5.4
 	github.com/go-chi/chi/v5 v5.0.7
@@ -17,7 +17,7 @@ require (
 	github.com/prometheus/prometheus v1.8.2-0.20220211202545-56e14463bccf
 	github.com/stretchr/testify v1.8.0
 	golang.org/x/net v0.0.0-20220826154423-83b083e8dc8b
-	google.golang.org/protobuf v1.28.0
+	google.golang.org/protobuf v1.28.1
 	k8s.io/api v0.25.0
 	k8s.io/apimachinery v0.25.0
 	k8s.io/client-go v0.25.0
